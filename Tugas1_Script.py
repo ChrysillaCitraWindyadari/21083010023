@@ -1,0 +1,11 @@
+print("*************************************")
+print("Tugas 1 SISOP Kelas B")
+print("*************************************")
+print("Nama : Chrysilla Citra Windyadari")
+print("NPM  : 21083010023")
+print("*************************************")
+print("notes:")
+print("*************************************")
+print("Halo dunia!")
+print("Ini adalah skrip Bash pertamaku di Linux")
+
